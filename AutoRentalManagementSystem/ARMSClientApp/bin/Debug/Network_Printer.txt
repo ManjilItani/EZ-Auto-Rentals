@@ -1,0 +1,34 @@
+The Credit Card Information: 
+Credit Card Number = 1111111111111111
+Credit Card Name = Bill Cape
+Credit Card Issuing Company = Discover
+Merchant Company Code = 9
+Expiration Date = 2/1/2027 12:00:00 AM
+Billing Address Line 1 = 5789 S BlackStoen Ave
+Billing Address Line 2 = Apt 107
+Billing City = Chicago
+Billing State = 17
+Billing Zipcode = 60637
+Billing Country = US
+Credit Limit = 20000.00
+Credit Balance = 17000.00
+Activation Status = False
+
+
+The Credit Card Information: 
+Credit Card Number = 1111111111111111
+Credit Card Name = Bill Cape
+Credit Card Issuing Company = Amex
+Merchant Company Code = 4
+Expiration Date = 12/25/2022 12:00:00 AM
+Billing Address Line 1 = 333 Washington Ave
+Billing Address Line 2 = 15fl
+Billing City = East Village
+Billing State = 36
+Billing Zipcode = 51489
+Billing Country = US
+Credit Limit = 50000.00
+Credit Balance = 9000.00
+Activation Status = True
+
+

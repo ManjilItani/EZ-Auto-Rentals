@@ -1,0 +1,15 @@
+D:\CITY\Sem3\CST4708(A.Rodriguez)\Project2\AutoRentalManagementSystem\ARMSClientApp\bin\Debug\ARMSClientApp.exe.config
+D:\CITY\Sem3\CST4708(A.Rodriguez)\Project2\AutoRentalManagementSystem\ARMSClientApp\bin\Debug\ARMSClientApp.exe
+D:\CITY\Sem3\CST4708(A.Rodriguez)\Project2\AutoRentalManagementSystem\ARMSClientApp\bin\Debug\ARMSClientApp.pdb
+D:\CITY\Sem3\CST4708(A.Rodriguez)\Project2\AutoRentalManagementSystem\ARMSClientApp\bin\Debug\ARMSBOLayer.dll
+D:\CITY\Sem3\CST4708(A.Rodriguez)\Project2\AutoRentalManagementSystem\ARMSClientApp\bin\Debug\ARMSDALayer.dll
+D:\CITY\Sem3\CST4708(A.Rodriguez)\Project2\AutoRentalManagementSystem\ARMSClientApp\bin\Debug\ARMSBOLayer.pdb
+D:\CITY\Sem3\CST4708(A.Rodriguez)\Project2\AutoRentalManagementSystem\ARMSClientApp\bin\Debug\ARMSDALayer.pdb
+D:\CITY\Sem3\CST4708(A.Rodriguez)\Project2\AutoRentalManagementSystem\ARMSClientApp\obj\Debug\ARMSClientApp.csproj.AssemblyReference.cache
+D:\CITY\Sem3\CST4708(A.Rodriguez)\Project2\AutoRentalManagementSystem\ARMSClientApp\obj\Debug\ARMSClientApp.frmCreditCardSearch.resources
+D:\CITY\Sem3\CST4708(A.Rodriguez)\Project2\AutoRentalManagementSystem\ARMSClientApp\obj\Debug\ARMSClientApp.Properties.Resources.resources
+D:\CITY\Sem3\CST4708(A.Rodriguez)\Project2\AutoRentalManagementSystem\ARMSClientApp\obj\Debug\ARMSClientApp.csproj.GenerateResource.cache
+D:\CITY\Sem3\CST4708(A.Rodriguez)\Project2\AutoRentalManagementSystem\ARMSClientApp\obj\Debug\ARMSClientApp.csproj.CoreCompileInputs.cache
+D:\CITY\Sem3\CST4708(A.Rodriguez)\Project2\AutoRentalManagementSystem\ARMSClientApp\obj\Debug\ARMSClientApp.csproj.CopyComplete
+D:\CITY\Sem3\CST4708(A.Rodriguez)\Project2\AutoRentalManagementSystem\ARMSClientApp\obj\Debug\ARMSClientApp.exe
+D:\CITY\Sem3\CST4708(A.Rodriguez)\Project2\AutoRentalManagementSystem\ARMSClientApp\obj\Debug\ARMSClientApp.pdb
