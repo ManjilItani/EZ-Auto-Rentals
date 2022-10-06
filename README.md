@@ -12,4 +12,4 @@ Windows application build in 3-tier architecture system with **.Net** & **C#** t
   - ARMSDALayer - Configuration to ORM and connection to database (_if you change name of the database change in line-13 of SQLServerDAOFactory.cs_)
   - ARMSClientApp - Presentation Layer (_for users_)
 
-### Indepth documentation in **EZRental Inc. Customer Documentatioin .pdf**
+### ** Indepth documentation in **EZRental Inc. Customer Documentatioin .pdf\*\*
